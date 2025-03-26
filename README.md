@@ -1,2 +1,2 @@
 # -Data-Analytics-
-Projetos com Power BI, Metabase, SQL e análise de dados.
+Projetos com Excel, Power BI, Metabase, SQL e análise de dados.
